@@ -1,0 +1,6 @@
+pages\AppiumProductPage.class
+stepdefs\Amazon.class
+pages\AppiumSearchPage.class
+testrunner\TestRunnerAppium.class
+pages\AppiumLoginPage.class
+stepdefs\HooksAppium.class
